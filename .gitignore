@@ -1,0 +1,8 @@
+downloads/*
+!downloads/.gitkeep
+
+## IDE - PyCharm ##
+.idea
+
+## Misc files ##
+.DS_Store
